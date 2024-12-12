@@ -1,4 +1,4 @@
-package org.example
+package org.example.groovy
 
 class MainGroovy {
     static void main(String[] args) {
